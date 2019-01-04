@@ -11,7 +11,7 @@ public class Main {
             System.out.println("205 - oznacza szerokość");
             System.out.println("55 - oznacza wysokość opony w % do szerokości");
             System.out.println("r16 - to rozmiar opony w calach");
-            System.out.println("");
+            System.out.println("Pierwsza zmiana w github");
 
             Scanner odczyt = new Scanner(System.in);
             String[][] daneOpony = {{"szerokosc [mm]", "wysokosc [%]", "rozmiar [cale]"}, {"1", "1", "1"}};
